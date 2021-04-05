@@ -4,7 +4,7 @@
 
 Atualmente estou estudando Engenharia Mecânica e Ciência de Dados.
 
-Recentemente, embarquei no foguete da XP Inc. e pretendo tornar esse lugar um ecossistema de estudos sobre data analytics e data engineering para o mercado financeiro. 
+Pretendo tornar esse lugar um ecossistema de estudos sobre dados para o mercado financeiro. 
 
 👯 Atuo na comunidade Automa Ladies, incentivando a carreira de mulheres na área de tecnologia. 
 
