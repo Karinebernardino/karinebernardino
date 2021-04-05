@@ -1,16 +1,16 @@
-### Oi, eu sou a Ka! 👋
+### Hi! 👋
 
 ![Alt Text](https://www.icegif.com/wp-content/uploads/aesthetic-icegif-23.gif)
 
-Atualmente estou estudando Engenharia Mecânica e Ciência de Dados.
+I am currently studying Mechanical Engineering and Data Science.
 
-Pretendo tornar esse lugar um ecossistema de estudos sobre dados para o mercado financeiro. 
+I intend to make this place an ecosystem of studies on data for the financial market.
 
-👯 Atuo na comunidade Automa Ladies, incentivando a carreira de mulheres na área de tecnologia. 
+👯 I work in the Automa Ladies community, encouraging women in tech.
 
-🌱 Estou aprendendo Python, SQL e R. 
+🌱 I'm learning Python, SQL and R.
 
-📫 Você poderá falar comigo através do meu e-mail: Karine.nlb@gmail.com
+📫 You can talk to me through my email: Karine.nlb@gmail.com
 
 
 <!--
