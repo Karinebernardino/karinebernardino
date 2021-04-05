@@ -2,7 +2,7 @@
 
 ![Alt Text](https://www.icegif.com/wp-content/uploads/aesthetic-icegif-23.gif)
 
-I am currently studying Mechanical Engineering and Data Science.
+I am currently studying Engineering and Data Science.
 
 I intend to make this place an ecosystem of studies on data for the financial market.
 
