@@ -1,5 +1,7 @@
 ### Oi, eu sou a Ka! 👋
 
+![Alt Text](https://www.icegif.com/wp-content/uploads/aesthetic-icegif-23.gif)
+
 Atualmente estou estudando Engenharia Mecânica e Ciência de Dados.
 
 Recentemente, embarquei no foguete da XP Inc. e pretendo tornar esse lugar um ecossistema de estudos sobre data analytics e data engineering para o mercado financeiro. 
